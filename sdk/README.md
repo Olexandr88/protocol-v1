@@ -225,7 +225,7 @@ main();
 
 ## License
 
-Drift Protocol v1 is licensed under [Apache 2.0](./LICENSE).
+Drift Protocol v1 is licensed under [Apache 2.0](LICENSE).
 
 Unless you explicitly state otherwise, any contribution intentionally submitted
 for inclusion in Drift SDK by you, as defined in the Apache-2.0 license, shall be
